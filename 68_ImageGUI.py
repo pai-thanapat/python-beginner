@@ -1,9 +1,8 @@
-# 66. PyQt5 introduction (GUI)
+# 68. Image GUI
 
 import sys
 from PyQt5.QtWidgets import QApplication, QMainWindow, QLabel
-from PyQt5.QtGui import QIcon, QFont, QPixmap
-from PyQt5.QtCore import Qt
+from PyQt5.QtGui import QIcon, QPixmap
 
 
 class MainWindow(QMainWindow):

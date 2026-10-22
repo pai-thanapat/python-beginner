@@ -1,4 +1,4 @@
-# 66. PyQt5 introduction (GUI)
+# 67. Label GUI
 
 import sys
 from PyQt5.QtWidgets import QApplication, QMainWindow, QLabel
